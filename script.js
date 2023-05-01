@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const homeContent = `
         <h2 class="home-title">Velkommen til Caterina's Nails Salon!</h2>
         <p class="home-text">Jeg tilbyr profesjonelle negltjenester og fantastiske negldesign for å gjøre neglene dine vakre og unike.</p>
-        <p class="home-text">Utforsk våre tjenester og <a href="https://bellabeauty.onlinebooq.net/" target="_blank" rel="noopener noreferrer">book</a> en avtale i dag!</p>
+        <p class="home-text">Utforsk min tjenester og <a href="https://bellabeauty.onlinebooq.net/" target="_blank" rel="noopener noreferrer">book</a> en avtale i dag!</p>
     `;
 
     const aboutContent = `
